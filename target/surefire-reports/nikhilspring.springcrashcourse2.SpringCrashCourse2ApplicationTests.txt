@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: nikhilspring.springcrashcourse2.SpringCrashCourse2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.821 s - in nikhilspring.springcrashcourse2.SpringCrashCourse2ApplicationTests
